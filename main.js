@@ -7,7 +7,7 @@ const mongo = require('mongodb').MongoClient;
 const axios = require('axios')
 const { token , admins , curr} = require('./details')
 const mongo_url = "mongodb+srv://mznetofficial:vsTh1Btwz7k7kaOt@cluster0.yadk0a8.mongodb.net/?retryWrites=true&w=majority"
-const bot = new Telegraf(6205177298:AAGu302SKmAUraVYlK1bUTCmmw8Ozzkc-SQ);
+const bot = new Telegraf(5618361858:AAERHhB_lkEnNw1moKs3M5e0HGmLRRAYUmA);
 
 //Scenes Register 
 
